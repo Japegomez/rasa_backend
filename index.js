@@ -10,7 +10,7 @@ app.use(
 )
 var catalogo = require('./catalogo.json')
 app.get('/', function (req, res) {
-	res.json('hola')
+	res.json(catalogo)
 })
 
 app.get('/palabrasclave', function (req, res) {
