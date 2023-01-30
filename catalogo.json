@@ -1,0 +1,64 @@
+{
+	"tramites": [
+		{
+			"EKITALDIA-EJERCICIO": 2019,
+			"PROZEDURARENID-IDPROCEDIMIENTO": 1,
+			"IZENA_EU-DENOMINACION_EU": "Gora jotzeko errekurtsoa",
+			"IZENA_CAS-DENOMINACION_CAS": "Recurso de alzada",
+			"SAILA_EU-DEPARTAMENTO_EU": "07 HERRI ADMINISTRAZIORAKO ETA ERAKUNDE HARREMANETARAKO SAILA",
+			"SAILA_CAS-DEPARTAMENTO_CAS": "07 DEPART. DE ADMINISTRACIÓN PÚBLICA Y RELAC. INSTITUCIONALES",
+			"ORGANIKOA_EU-ORGANICO_EU": "07101 LEGE AHOLKULARITZARAKO ZERBITZUA",
+			"ORGANIKOA_CAS-ORGANICO_CAS": "07101 SERVICIO DE ASESORÍA JURÍDICA",
+			"GAIA_EU-TEMA_EU": "Egintzen berrikuspena, errekurtsoak eta erreklamazioak",
+			"GAIA_CAS-TEMA_CAS": "Revisión de actos, recursos administrativos y reclamaciones"
+		},
+		{
+			"EKITALDIA-EJERCICIO": 2019,
+			"PROZEDURARENID-IDPROCEDIMIENTO": 2,
+			"IZENA_EU-DENOMINACION_EU": "Berrastertze-errekurtsoa. (Zerga arloko egintzak izan ezik)",
+			"IZENA_CAS-DENOMINACION_CAS": "Recurso potestativo de reposición. (excepto actos en materia tributaria)",
+			"SAILA_EU-DEPARTAMENTO_EU": "07 HERRI ADMINISTRAZIORAKO ETA ERAKUNDE HARREMANETARAKO SAILA",
+			"SAILA_CAS-DEPARTAMENTO_CAS": "07 DEPART. DE ADMINISTRACIÓN PÚBLICA Y RELAC. INSTITUCIONALES",
+			"ORGANIKOA_EU-ORGANICO_EU": "07101 LEGE AHOLKULARITZARAKO ZERBITZUA",
+			"ORGANIKOA_CAS-ORGANICO_CAS": "07101 SERVICIO DE ASESORÍA JURÍDICA",
+			"GAIA_EU-TEMA_EU": "Egintzen berrikuspena, errekurtsoak eta erreklamazioak",
+			"GAIA_CAS-TEMA_CAS": "Revisión de actos, recursos administrativos y reclamaciones"
+		},
+		{
+			"EKITALDIA-EJERCICIO": 2019,
+			"PROZEDURARENID-IDPROCEDIMIENTO": 4,
+			"IZENA_EU-DENOMINACION_EU": "Berrikusteko errekurtso berezia. (Zerga arloko egintzak izan ezik)",
+			"IZENA_CAS-DENOMINACION_CAS": "Recurso extraordinario de revisión. (excepto actos en materia tributaria)",
+			"SAILA_EU-DEPARTAMENTO_EU": "07 HERRI ADMINISTRAZIORAKO ETA ERAKUNDE HARREMANETARAKO SAILA",
+			"SAILA_CAS-DEPARTAMENTO_CAS": "07 DEPART. DE ADMINISTRACIÓN PÚBLICA Y RELAC. INSTITUCIONALES",
+			"ORGANIKOA_EU-ORGANICO_EU": "07101 LEGE AHOLKULARITZARAKO ZERBITZUA",
+			"ORGANIKOA_CAS-ORGANICO_CAS": "07101 SERVICIO DE ASESORÍA JURÍDICA",
+			"GAIA_EU-TEMA_EU": "Egintzen berrikuspena, errekurtsoak eta erreklamazioak",
+			"GAIA_CAS-TEMA_CAS": "Revisión de actos, recursos administrativos y reclamaciones"
+		},
+		{
+			"EKITALDIA-EJERCICIO": 2019,
+			"PROZEDURARENID-IDPROCEDIMIENTO": 11,
+			"IZENA_EU-DENOMINACION_EU": "Egintza deuseztagarriak kaltegarritzat jotzea.",
+			"IZENA_CAS-DENOMINACION_CAS": "Declaración de lesividad de actos anulables.",
+			"SAILA_EU-DEPARTAMENTO_EU": "07 HERRI ADMINISTRAZIORAKO ETA ERAKUNDE HARREMANETARAKO SAILA",
+			"SAILA_CAS-DEPARTAMENTO_CAS": "07 DEPART. DE ADMINISTRACIÓN PÚBLICA Y RELAC. INSTITUCIONALES",
+			"ORGANIKOA_EU-ORGANICO_EU": "07101 LEGE AHOLKULARITZARAKO ZERBITZUA",
+			"ORGANIKOA_CAS-ORGANICO_CAS": "07101 SERVICIO DE ASESORÍA JURÍDICA",
+			"GAIA_EU-TEMA_EU": "Egintzen berrikuspena, errekurtsoak eta erreklamazioak",
+			"GAIA_CAS-TEMA_CAS": "Revisión de actos, recursos administrativos y reclamaciones"
+		},
+		{
+			"EKITALDIA-EJERCICIO": 2019,
+			"PROZEDURARENID-IDPROCEDIMIENTO": 1078,
+			"IZENA_EU-DENOMINACION_EU": "Bidaiariak turismo-ibilgailuz garraiatzeko zerbitzu publikorako ibilgailua ordezkatzea.",
+			"IZENA_CAS-DENOMINACION_CAS": "Sustitución de vehículo de transporte público de viajeros en vehículos de turismo.",
+			"SAILA_EU-DEPARTAMENTO_EU": "06 GARRAIOAK ETA MUGIKORTASUN JASANGARRIA SUSTATZEKO SAILA",
+			"SAILA_CAS-DEPARTAMENTO_CAS": "06 DEPARTAMENTO DE TRANSPORTES Y MOVILIDAD SOSTENIBLE",
+			"ORGANIKOA_EU-ORGANICO_EU": "061112 MERKATUGAIEN ETA BAIMENEN ATALA",
+			"ORGANIKOA_CAS-ORGANICO_CAS": "061112 SECCIÓN DE MERCANCIAS Y AUTORIZACIONES",
+			"GAIA_EU-TEMA_EU": "Baimenak eta lizentziak",
+			"GAIA_CAS-TEMA_CAS": "Autorizaciones, licencias y permisos"
+		}
+	]
+}
