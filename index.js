@@ -11,6 +11,7 @@ app.use(
 var catalogo = require('./catalogo.json')
 app.get('/', function (req, res) {
 	res.json(catalogo)
+	// comentario prueba
 })
 
 app.get('/palabrasclave', function (req, res) {
