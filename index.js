@@ -15,7 +15,7 @@ app.get('/', function (req, res) {
 })
 
 app.get('/palabrasclave', function (req, res) {
-	res.json(['ayuda', 'adopcion'])
+	res.json(['javi', 'adopcion'])
 })
 
 app.listen(port, () => {
